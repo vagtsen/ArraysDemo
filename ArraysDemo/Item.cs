@@ -6,7 +6,7 @@
 
         public Item (int id)   //Constructor
         {
-            ID = id; //fgfgfgf
+            ID = id; //fgfgfgf tryreyeryb e
         }
     }
 }
